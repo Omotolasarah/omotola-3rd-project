@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(247, 255, 255);
+}
+
+div{
+      /* border: 2px solid black;  */
+     /* min-height: 200px;  */
+     /* margin: 0px; */
+     /* padding: 0px; */
+     
+}
+    
+.para{
+     font-size: 2em; 
+     font-weight: 500; 
+     padding-left: 2px;
+}
+.text{
+     font-size: 20px; 
+     font-weight: 600;
+     padding-left: 10px;
+}
+.list{
+    font-size: 20px;
+    font-weight:500 ;
+}
+.age{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(images/car2.jpg);
+    background-size: cover;
+    height: 600px;
+    border-end-start-radius: 50%;
+    
+    
+}
+.journey{
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.adventure{
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 10px ;
+}
+.age .box{
+    background-color: white;
+    height:80px;
+    margin:auto;
+     width:50%; 
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 40px;
+    text-align: center;
+    box-shadow: 12px 11px 35px 13px rgba(236,146,146,0.6);
+    -webkit-box-shadow: 12px 11px 35px 13px rgba(236,146,146,0.6);
+    -moz-box-shadow: 12px 11px 35px 13px rgba(236,146,146,0.6);
+}
+.age .box h4{
+    margin-top:10px;
+}
+.age button{
+    height: 50px;
+    margin-top: 10px;
+    
+    
+}
+.show{
+    text-decoration: none;
+    text-align: center;
+    
+    
+}
+.logos{
+   height: 150px;
+   text-align: center; 
+   margin-top: 290px;
+ 
+   
+}
+.logos p{
+    padding-top: 20px;
+   font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+
+.connect a{
+    text-decoration: none;
+    color: white;
+}
+.login{
+   min-height:100px;
+}
+.getstart{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ogo img{
+    height: 200px;
+    width:300px;
+}
